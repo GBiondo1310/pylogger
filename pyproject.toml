@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build-meta"
+
+[project]
+name = "pylogger"
+version = "1.0.0"
+authors = [
+    { name="GBiondo1310", email="giacomo.biondelli@gmail.com"},
+]
+description = "Quick logging package"
+readme = "README.md"
+dependencies = ["loguru==0.7.2"]
+
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/GBiondo1310/pylogger.git"
+Github = "https://github.com/GBiondo1310/pylogger.git"
+Issues = "https://github.com/GBiondo1310/pylogger.git/issues"

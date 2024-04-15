@@ -1,0 +1,6 @@
+venv
+tests
+*egg.info
+scripts
+__pycache__
+struct.json
