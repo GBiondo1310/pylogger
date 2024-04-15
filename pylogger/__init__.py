@@ -1,1 +1,1 @@
-from loggers import general_logger, BaseLogger
+from .loggers import general_logger, BaseLogger
