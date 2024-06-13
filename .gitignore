@@ -1,6 +1,6 @@
 venv
 tests
-*egg.info
+*egg-info
 scripts
 __pycache__
 struct.json
